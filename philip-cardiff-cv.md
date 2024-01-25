@@ -1,16 +1,49 @@
+# Education
+
+- 11/08–10/12: PhD, University College Dublin, Ireland, School of Mechanical and Materials Engineering (SMME). Thesis title: Development of the Finite Volume Method for Hip
+Joint Stress Analysis; Supervisors: A. Ivanković, D. Fitzpatrick, R. Flavin. Awards: 1st place (shared) BOC Gas Presentation; 2nd place Bernard Crossland Poster.
+
+- Degree: Grade Point Average 3.84
+
+- Secondary School, St. P
+
+
 # Commissions of Trust
 
 - Editor of the [OpenFOAM Journal](http://journal.openfoam.com)
 - Editor of the [Journal for Open Source Software (JOSS)](http://joss.theoj.org)
 - OpenFOAM Workshop Conference Committee member: member and former chair (2020-2021). The committee are responsible for organising the annual international OpenFOAM Workshop.
 - Funded Investigator in the National Centres: [I-Form](www.i-form.ie), the national advanced manufacturing centre, [UCD Energy Institute](energyinstitute.ucd.ie), and previously the Irish Composites Centre (IComp).
-- Member of the UCD Centre for Mechanics and the UCD Centre for Biomedical Engineering.
-- Director of Bekaert’s 1st [University Technology Centre](www.ucd.ie/bekaert)
+- Principal investigator in the UCD Centre for Biomedical Engineering.
 - Super-moderator on the OpenFOAM forum [www.cfd-online.com](www.cfd-online.com): I have made more than 1,000 posts since I joined in 2009.
 - The principal architect of the [solids4foam toolbox](solids4foam.github.io) for OpenFOAM, which is a solid mechanics and fluid-solid interaction toolbox for open-source software OpenFOAM.
-- Member of the School Research Innovation and Impact committee for the School of Mechanical and Materials Engineering at University College Dublin
 
 
+# Institutional Responsibilities
+
+- 09/18-present: Director of Bekaert’s 1st [University Technology Centre](www.ucd.ie/bekaert)
+- 09/21-present: Deputy Director (Responsible for Computation) in the UCD Centre for Mechanics. Director of the MEngSc in Materials Science and Engineering, UCD, SMME.
+- 09/15-present: Member of the Programme Steering Board for the ME in Materials Science and Engineering, UCD, SMME.
+- 09/15-present: Member of the School Research Committee, UCD, SMME.
+- 09/15-08/20: Member of the College Timetable Committee, UCD, SMME.
+
+
+# Teaching
+
+- 06/16-05/18: Professional Diploma in University Teaching & Learning (30 ECTS), UCD. My teaching philosophy can be found at https://people.ucd.ie/philip.cardiff/teaching.
+- 09/21: University College Teaching Award
+- 09/19: University College Teaching nomination
+- 09/15-present: Lecturer/Module Coordinator – Computational Continuum Mechanics II, UCD.
+- 09/15-07/23: Lecturer/Module Coordinator – Manufacturing Engineering I, UCD.
+- 09/15-12/20: Lecturer/Module Coordinator – Advanced Materials Processing, UCD.
+- 09/15-12/20: Lecturer – Computational Continuum Mechanics I, UCD.
+- 09/15-12/17: Lecturer – Materials Science and Engineering II, UCD.
+
+
+# Organisation of Scientific Meetings
+
+- 08/06/21- 11/06/21: Organiser and Host, 16th International OpenFOAM Workshop conference, UCD (online, due to COVID). 271 attendees, 124 presentations: www.ucd.ie/openfoam2021.
+- 16/01/17- 17/01/17: Organiser and Host, 5th UK and Ireland OpenFOAM User Day, SMME, UCD. Over 50 attendees, 50% from the UK: www.ucd.ie/mecheng/newsandevents/5thukirelandfoamopenfoamuserday.
 
 
 # Reviewing Activities
