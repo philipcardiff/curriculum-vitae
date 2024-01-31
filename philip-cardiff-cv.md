@@ -130,9 +130,7 @@
 - Laxmi Muralidharan, PhD, 2015-2019
 - Michael Clancy, PhD, 2015-2020
 - Chen Ling, PhD, 2015-2019
-
 - Umair Javaid, Research Engineer, 2017-2020
-
 - Ivan Batistić, Postdoc 2022-2023
 - Emad Tandis, Postdoc, 2020-2023
 - Karen Fitzgerald, Postdoc, 2020-2021
