@@ -1,11 +1,10 @@
-# Education
+# Education & Qualifications
 
-- 11/08–10/12: PhD, University College Dublin, Ireland, School of Mechanical and Materials Engineering (SMME). Thesis title: Development of the Finite Volume Method for Hip
+- 06/16-05/18: **Professional Diploma in University Teaching & Learning** (30 ECTS), UCD. My teaching philosophy can be found at https://people.ucd.ie/philip.cardiff/teaching.
+- 11/08–10/12: **PhD**, University College Dublin, Ireland, School of Mechanical and Materials Engineering (SMME). Thesis title: Development of the Finite Volume Method for Hip
 Joint Stress Analysis; Supervisors: A. Ivanković, D. Fitzpatrick, R. Flavin. Awards: 1st place (shared) BOC Gas Presentation; 2nd place Bernard Crossland Poster.
-
-- Degree: Grade Point Average 3.84
-
-- Secondary School, St. P
+- 09/04–06/08: **BE (Mechanical)**, University College Dublin, School of Electrical, Electronic and Mechanical Engineering, Dublin, First Class Honours. Grade Point Average 3.84.
+- 09/99-06/04: **Secondary School**, St. Peter's College, Wexford town, 560 points (A1 in Maths, Physics, Chemistry and Technical Drawing; B1 in English; B3 in German).
 
 
 # Commissions of Trust
@@ -23,9 +22,20 @@ Joint Stress Analysis; Supervisors: A. Ivanković, D. Fitzpatrick, R. Flavin. Aw
 
 - 09/18-present: Director of Bekaert’s 1st [University Technology Centre](www.ucd.ie/bekaert)
 - 09/21-present: Deputy Director (Responsible for Computation) in the UCD Centre for Mechanics. Director of the MEngSc in Materials Science and Engineering, UCD, SMME.
+- 09/23-present: Member of the College IT Committee, UCD.
 - 09/15-present: Member of the Programme Steering Board for the ME in Materials Science and Engineering, UCD, SMME.
 - 09/15-present: Member of the School Research Committee, UCD, SMME.
-- 09/15-08/20: Member of the College Timetable Committee, UCD, SMME.
+- 09/15-08/20: Member of the College Timetable Committee, UCD.
+
+
+# Publications & Online Profiles
+
+- [Google Scholar profile](https://scholar.google.com/citations?user=1aV2HGcAAAAJ&hl=en&oi=ao).
+- [Scopus profile](https://www.scopus.com/authid/detail.uri?authorId=55164687500).
+- [ResearchGate](https://www.researchgate.net/profile/Philip-Cardiff).
+- [GitHub](https://github.com/philipcardiff).
+- [LinkedIn](https://www.linkedin.com/in/philipcardiff).
+- [Twitter/X](https://twitter.com/phiiliipc).
 
 
 # Teaching
@@ -50,11 +60,11 @@ Joint Stress Analysis; Supervisors: A. Ivanković, D. Fitzpatrick, R. Flavin. Aw
 
 ## Proposal Reviewer
 
-- ICHEC Class A/B applications to use resources on the Irish Centre for High-End Computing Kay supercomputer 
-- Marie Skłodowska-Curie Postdoctoral Fellowships 2020/2021/2023
-- Netherlands Organisation for Scientific Research 2019
-- South East Technological University (SETU) researcher award programme
-- [Invited but unavailable]: German Research Foundation (Deutsche Forschungsgemeinschaft)
+- ICHEC Class A/B applications to use resources on the Irish Centre for High-End Computing Kay supercomputer.
+- Marie Skłodowska-Curie Postdoctoral Fellowships 2020/2021/2023.
+- Netherlands Organisation for Scientific Research 2019, 2024 (unavailable).
+- South East Technological University (SETU) researcher award programme.
+- [Invited but unavailable]: German Research Foundation (Deutsche Forschungsgemeinschaft), 2023.
 - [Invited but unavailable]: South East Technological University (SETU) PhD programme
 
 ## Journal Reviewer
@@ -122,23 +132,40 @@ Joint Stress Analysis; Supervisors: A. Ivanković, D. Fitzpatrick, R. Flavin. Aw
 - Karen Fitzgerald, Postdoc, 2020-2021
 - Michael Clancy, Postdoc, 2020-2021
 - Chen Ling, Postdoc, 2019-2020
-- Pierre Aumjaud, Postdoc
+- Pierre Aumjaud, Postdoc, 2017-2021
 
 
 # Grants
 
-- European Research Council Consolidator Grant 2022, XenoSim
-- Irish Research Council Laureate Starting Grant 2017, SmartSim
-- Irish Composites Centre, CompSim
+- Development of bio-based composites with a low carbon footprint for fatigue-resistant wind turbine blades, Irish Research Council, Umair Javiad, 2023-2027.
+- I-Form advanced manufacturing centre, phase II, Co-PI, 2023-2029.
+- XenoSim: Providing Computational Insights into Cardiac Xenotransplantation, European Research Council Consolidator Grant, 2022-2027.
+- Toward an Eco-Friendly Heat Treatment Process for Steel Wire, SFI Industry RD&I Fellowship. Science Foundation Ireland and Bekaert, Emad Tandis, 2022-2023.
+- Next Generation Energy Systems (NexSys), Energy Institute, SFI Strategic Partnership Programme. Science Foundation Ireland and Philanthropy, Co-PI, 2022-2026.
+- Development of Simulation Approaches for the Design and Analysis of Aortic Valve Systems, Boston Scientific and I-Form/ Science Foundation Ireland, Dylan Armfield, 2021-2025.
+- Bekaert University Technology Centre, Phase II, 2021-2026.
+- Irish Research Council Laureate Starting Grant, SmartSim: Applying Deep Learning Methods To Enrich Engineering Simulations Of Advanced Manufacturing Processes, Emad Tandis, Simon Rodriguez, Scott Levie, 2019-2024.
+- Modelling bunching and cabling of wires, Bekaert, Wenbin Sun, 2019-2023.
+- Smart Design of Advanced Wire Manufacturing Processes, I-Form and Bekaert, 2018-2023.
+- Manufacturing variations, effects and monitoring for better-built wire ropes for offshore applications, MaREI and Bekaert, Co-PI, Andrew Whelan, Seevani Bali, 2018-2023.
+- I-Form advanced manufacturing centre, phase I, Co-PI, 2017-2023.
+- Irish Composites Centre, CompSim phase II: simulation and optimisation of composites, 2018-2019.
+- Machine learning modelling for smart manufacturing processes, Marie-Curie Career-FIT, Enterprise Ireland, Pierre Aumjaud, 2018-2021.
+- Irish Composites Centre, CompSim phase I: simulation and optimisation of composites, 2017-2018.
+- Constitutive laws for ultra-high strength pearlitic steels, Bekaert and the Irish Research Council Enterprise Partnership Scheme, Co-PI, Abhay Pant, 2017-2020.
+- Bekaert University Technology Centre, Phase I, 2015-2020.
+- Multi-scale modelling of pearlitic steel wires, Bekaert, Michael Clancy, 2014-2018.
+- Overcoming Post-Operative Hip Instability: A Numerical Model Approach, Tekno-Surgical and the Irish Research Council Enterprise Partnership Scheme, Karen Fitzgerald, 2014-2018.
+- A Numerical Model of the Ankle Joint Mechanics Towards Design of Next Generation Ankle Implants, Hogan Healthcare and the Irish Research Council Enterprise Partnership Scheme, Laxmi Muralidharan, 2014-2018.
 
 
 # Awards
 
-- Bernhard Crossland presentation award
-- BOC gas postgraduate presentation award
-- OFW16 best presentation, Andrew Whelan
-- Poster award, UCD postgraduate research day, Dylan Armfield
-- Poster award, UCD postgraduate research day, Simon Rodriguez
+- Bernhard Crossland presentation award, 2011
+- BOC gas postgraduate presentation award, 2011
+- OFW16 best presentation, Andrew Whelan, 2021
+- Poster award, UCD postgraduate research day, Dylan Armfield, 2023.
+- Poster award, UCD postgraduate research day, Simon Rodriguez, 2023.
 
 
 # Media
@@ -162,7 +189,5 @@ Joint Stress Analysis; Supervisors: A. Ivanković, D. Fitzpatrick, R. Flavin. Aw
 - https://medworm.com/1108697918/ucd-researcher-gets-eu-grant-to-study-pig-to-human-heart-transplants/
 
 - https://ma-clinique.fr/un-chercheur-de-lucd-recoit-une-subvention-erc-consolidator-pour-debloquer-des-connaissances-informatiques-sur-la-xenotransplantation-cardiaque
-
-- "Would you accept a heart transplant from a pig?" Philip Cardiff, Article in the Kilmore Parish Journal, Co. Wexford, Ireland, 2023.
 
 - Philip Cardiff, "From Farming Dreams to Medical Frontiers: My Journey to Lead a €2 Million Research Project on Xenotransplantation”, Kilmore Parish Journal, Co Wexford, 52nd edition, December 2023.
