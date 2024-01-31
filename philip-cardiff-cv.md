@@ -1,8 +1,14 @@
+# Positions
+
+- 12/21-present: **Associate Professor**, School of Mechanical and Materials Engineering, **University College Dublin**.
+- 08/15-12/21: **Assistant Professor**, School of Mechanical and Materials Engineering, **University College Dublin**.
+- 01/15-08-15: **Postdoctoral Research Fellow**, **University of Texas at Austin**, Texas, USA. *Petroleum and Geosystems Engineering, Cockrell School of Engineering*. I worked on the development of multiphysics finite volume models for the analysis of hydraulic fracturing and other coupled enhanced oil recovery processes.
+- 11/12-01-15: **Postdoctoral Research Fellow**, **University College Dublin**, School of Mechanical and Materials Engineering. I worked on finite volume/element methods and material characterisation related to metal forming (www.bekaert.com) and composites (Irish Composites Centre).
+
 # Education & Qualifications
 
 - 06/16-05/18: **Professional Diploma in University Teaching & Learning** (30 ECTS), UCD. My teaching philosophy can be found at https://people.ucd.ie/philip.cardiff/teaching.
-- 11/08–10/12: **PhD**, University College Dublin, Ireland, School of Mechanical and Materials Engineering (SMME). Thesis title: Development of the Finite Volume Method for Hip
-Joint Stress Analysis; Supervisors: A. Ivanković, D. Fitzpatrick, R. Flavin. Awards: 1st place (shared) BOC Gas Presentation; 2nd place Bernard Crossland Poster.
+- 11/08–10/12: **PhD**, University College Dublin, Ireland, School of Mechanical and Materials Engineering. Thesis title: Development of the Finite Volume Method for Hip Joint Stress Analysis; Supervisors: A. Ivanković, D. Fitzpatrick, R. Flavin. Awards: 1st place (shared) BOC Gas Presentation; 2nd place Bernard Crossland Poster.
 - 09/04–06/08: **BE (Mechanical)**, University College Dublin, School of Electrical, Electronic and Mechanical Engineering, Dublin, First Class Honours. Grade Point Average 3.84.
 - 09/99-06/04: **Secondary School**, St. Peter's College, Wexford town, 560 points (A1 in Maths, Physics, Chemistry and Technical Drawing; B1 in English; B3 in German).
 
@@ -21,10 +27,10 @@ Joint Stress Analysis; Supervisors: A. Ivanković, D. Fitzpatrick, R. Flavin. Aw
 # Institutional Responsibilities
 
 - 09/18-present: Director of Bekaert’s 1st [University Technology Centre](www.ucd.ie/bekaert)
-- 09/21-present: Deputy Director (Responsible for Computation) in the UCD Centre for Mechanics. Director of the MEngSc in Materials Science and Engineering, UCD, SMME.
+- 09/21-present: Deputy Director (Responsible for Computation) in the UCD Centre for Mechanics. Director of the MEngSc in Materials Science and Engineering, School of Mechanical and Materials Engineering, UCD.
 - 09/23-present: Member of the College IT Committee, UCD.
-- 09/15-present: Member of the Programme Steering Board for the ME in Materials Science and Engineering, UCD, SMME.
-- 09/15-present: Member of the School Research Committee, UCD, SMME.
+- 09/15-present: Member of the Programme Steering Board for the ME in Materials Science and Engineering, School of Mechanical and Materials Engineering, UCD.
+- 09/15-present: Member of the School Research Committee, School of Mechanical and Materials Engineering, UCD.
 - 09/15-08/20: Member of the College Timetable Committee, UCD.
 
 
