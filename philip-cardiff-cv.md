@@ -54,6 +54,9 @@
 - 09/15-12/20: Lecturer/Module Coordinator – Advanced Materials Processing, UCD.
 - 09/15-12/20: Lecturer – Computational Continuum Mechanics I, UCD.
 - 09/15-12/17: Lecturer – Materials Science and Engineering II, UCD.
+- 17-Feb-22: PhD Interdoctoral Course at Politecnico di Milano, Computational fluid dynamics with open-source software, Training on "Solid mechanics and fluid-solid interaction in OpenFOAM using solids4foam.
+- 08-Feb-24: PhD Interdoctoral Course at Politecnico di Milano, Computational fluid dynamics with open-source software, Training on "Solid mechanics and fluid-solid interaction in OpenFOAM using solids4foam.
+
 
 
 # Organisation of Scientific Meetings
