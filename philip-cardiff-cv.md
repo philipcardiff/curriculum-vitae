@@ -44,8 +44,9 @@
 - [Twitter/X](https://twitter.com/phiiliipc).
 
 
-# Teaching
+# Teaching & Invited Trainings
 
+## University College Dublin
 - 06/16-05/18: Professional Diploma in University Teaching & Learning (30 ECTS), UCD. My teaching philosophy can be found at https://people.ucd.ie/philip.cardiff/teaching.
 - 09/21: University College Teaching Award
 - 09/19: University College Teaching nomination
@@ -54,9 +55,39 @@
 - 09/15-12/20: Lecturer/Module Coordinator – Advanced Materials Processing, UCD.
 - 09/15-12/20: Lecturer – Computational Continuum Mechanics I, UCD.
 - 09/15-12/17: Lecturer – Materials Science and Engineering II, UCD.
-- 17-Feb-22: PhD Interdoctoral Course at Politecnico di Milano, Computational fluid dynamics with open-source software, Training on "Solid mechanics and fluid-solid interaction in OpenFOAM using solids4foam.
-- 08-Feb-24: PhD Interdoctoral Course at Politecnico di Milano, Computational fluid dynamics with open-source software, Training on "Solid mechanics and fluid-solid interaction in OpenFOAM using solids4foam.
 
+## Invited Trainings
+
+- 08/02/24: One-day Lectures: PhD Interdoctoral Course at Politecnico di Milano, Computational fluid dynamics with open-source software, Training on "Solid mechanics and fluid-solid interaction in OpenFOAM using solids4foam.
+- 31/01/23: Lecture: An overview of the finite volume method for solid mechanics and fluid-solid interaction, International Research Training Group, Karlsruhe IT, Germany.
+- 17/02/22: One-day Lectures: PhD Interdoctoral Course at Politecnico di Milano, Italy, Computational fluid dynamics with open-source software, Training on "Solid mechanics and fluid-solid interaction in OpenFOAM using solids4foam.
+- Jan-2023: Lecture: An overview of the finite volume method for solid mechanics and fluid-solid interaction, International Research Training Group, Karlsruhe IT, Germany.
+- Jul-2022: Training: solids4foam training, The 18th OpenFOAM Workshop internal conference, University of Cambridge, UK, July 2022.
+- Jun-2020: Training: solids4foam training, The 3rd University College London, UK, online, February 2021; oTraining: Solid mechanics and fluid-solid interaction using the solids4foam toolbox, 15th OpenFOAM Workshop international conference, Virginia Tech, USA, online, June 2020.
+- Jul-2019: Training: Solid mechanics and fluid-solid interaction using the solids4foam toolbox, 14th  OpenFOAM Workshop international conference, Duisburg, Germany;
+- Jun-2019: OpenFOAM and the finite volume method for solid mechanics, Dutch OpenFOAM Usergroup (DOUG), Delft University of Technology, Netherlands.
+- Mar-2019: Development of the finite volume method for solid mechanics in OpenFOAM, DANSIS OpenFOAM Seminar, Aalborg University, Copenhagen Campus, Denmark.
+- May-2018: The finite volume method for solid mechanics in OpenFOAM, 2nd Iberian OpenFOAM Meeting, CESGA, Santiago de Compostela, Spain.
+- Geomechanics in OpenFOAM, Bundesanstalt für Wasserbau (Federal Institute for Hydraulic Engineering), Karlsruhe, Germany.
+- Feb-2017: Solid mechanics in OpenFOAM, Stammtisch United, German national OpenFOAM conference, Universität Kassel, Germany.
+- Jun-2016: Training: Solid mechanics in OpenFOAM, and the ParaView software, 11th OpenFOAM Workshop international conference, Guimarães, Portugal.
+- Jun-2015: Training: Solid mechanics in OpenFOAM, and the ParaView software, 10th OpenFOAM Workshop international conference, University of Michigan, USA.
+- Jun-2014: Training: Solid mechanics in OpenFOAM, and the ParaView software, 9th OpenFOAM Workshop international conference, University of Zagreb, Croatia.
+
+
+# Invited Keynotes, Plenaries & Seminars
+
+- 9-10/Jul/2024: Keynote (to be delivered), The Finite Volume Method for Multiphysics: From Manufacturing to Biomechanics, Annual Postgraduate Research Conference in Metallic Materials hosted by the Centre for Doctoral Training in Advanced Metallic Systems, University of Manchester, UK.
+- 23/Dec/23: Invited Seminar: The finite volume method for multiphysics applications, Hamilton Institute Seminar, Maynooth University, Ireland.
+- May-2023: Keynote: Simulating the process-structure property relationship in laser-bed fusion, EMPOrlA-Conference, Aachen, Germany.
+- Feb-2023: Keynote: Using preCICE to couple OpenFOAM and solids4foam for fluid-solid interactions, preCICE Workshop 2023, Technical University of Munich, Germany.
+- Apr-2021: Keynote: Finite volume approaches for finite strain elasto-plasticity, CCP-WSI Code Developers' Workshop 2, online, University of Plymouth, UK.
+- Feb-2021: Keynote: The finite volume method for solid mechanics, The 3rd University College London, UK, online.
+- Jun-2019: Keynote: OpenFOAM and the finite volume method for solid mechanics, Dutch OpenFOAM Usergroup (DOUG), Delft University of Technology, Netherlands.
+- Mar-2019: Keynote: Development of the finite volume method for solid mechanics in OpenFOAM, DANSIS OpenFOAM Seminar, Aalborg University, Copenhagen Campus, Denmark.
+- May-2018: Keynote: The finite volume method for solid mechanics in OpenFOAM, 2nd Iberian OpenFOAM Meeting, CESGA, Santiago de Compostela, Spain.
+- May-2017: Keynote: Geomechanics in OpenFOAM, Bundesanstalt für Wasserbau (Federal Institute for Hydraulic Engineering), Karlsruhe, Germany.
+- Feb-2017: Invited Talk: Solid mechanics in OpenFOAM, Stammtisch United, German national OpenFOAM conference, Universität Kassel, Germany.
 
 
 # Organisation of Scientific Meetings
