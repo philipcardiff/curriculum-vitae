@@ -58,10 +58,10 @@
 
 ## Invited Trainings
 
+- 21/02/24: GÖHPCOFFEE, GWDG, Germany (online). An Introduction to solids4foam: An OpenFOAM Toolbox for Solid Mechanics and Fluid-Solid Interaction, Invited online seminar.
 - 08/02/24: One-day Lectures: PhD Interdoctoral Course at Politecnico di Milano, Computational fluid dynamics with open-source software, Training on "Solid mechanics and fluid-solid interaction in OpenFOAM using solids4foam.
 - 31/01/23: Lecture: An overview of the finite volume method for solid mechanics and fluid-solid interaction, International Research Training Group, Karlsruhe IT, Germany.
 - 17/02/22: One-day Lectures: PhD Interdoctoral Course at Politecnico di Milano, Italy, Computational fluid dynamics with open-source software, Training on "Solid mechanics and fluid-solid interaction in OpenFOAM using solids4foam.
-- Jan-2023: Lecture: An overview of the finite volume method for solid mechanics and fluid-solid interaction, International Research Training Group, Karlsruhe IT, Germany.
 - Jul-2022: Training: solids4foam training, The 18th OpenFOAM Workshop internal conference, University of Cambridge, UK, July 2022.
 - Jun-2020: Training: solids4foam training, The 3rd University College London, UK, online, February 2021; oTraining: Solid mechanics and fluid-solid interaction using the solids4foam toolbox, 15th OpenFOAM Workshop international conference, Virginia Tech, USA, online, June 2020.
 - Jul-2019: Training: Solid mechanics and fluid-solid interaction using the solids4foam toolbox, 14th  OpenFOAM Workshop international conference, Duisburg, Germany;
@@ -125,8 +125,8 @@
 
 ## Programme Reviewer
 
-- External Validation Reviewer for a New Degree Programme: in Manufacturing Engineering, Galway-Mayo Institute of Technology, Galway, Ireland.
-- External panel member for PhD project review, Royal College of Surgeons in Ireland, Dublin, Ireland.
+- External Validation Reviewer for two new degree programmes: in Manufacturing Engineering, Galway-Mayo Institute of Technology, Galway, Ireland (2017).
+- External panel member for PhD project review, Royal College of Surgeons in Ireland, Dublin, Ireland (2023).
 
 ## PhD Thesis External Examiner
 
@@ -151,6 +151,9 @@
 - Scott Levie, 2021-2025
 - Federico Mazzanti, 2020-2024
 - Simon Rodriguez, 2020-2024
+- Abdur Rahman Al Azad, 2019-2024
+- Gowthaman Parivendhan, 2018-2024
+- Abhay Pant, 2017-2024
 
 
 ## Previous
@@ -175,6 +178,7 @@
 
 # Grants
 
+- REVERSIble adhesiVE bonding to meet the evolving needs of the global wind energy industry, Eurostars Eureka consortium, 2024-2027.
 - Development of bio-based composites with a low carbon footprint for fatigue-resistant wind turbine blades, Irish Research Council, Umair Javiad, 2023-2027.
 - I-Form advanced manufacturing centre, phase II, Co-PI, 2023-2029.
 - XenoSim: Providing Computational Insights into Cardiac Xenotransplantation, European Research Council Consolidator Grant, 2022-2027.
@@ -208,10 +212,11 @@
 
 # Media
 
+- Philip Cardiff, "From Farming Dreams to Medical Frontiers: My Journey to Lead a €2 Million Research Project on Xenotransplantation”, Kilmore Parish Journal, Co Wexford, 52nd edition, December 2023.
+
+- I am listed on the “Professional Top 100” list of the Irish Hospital Professional News (Ireland’s dedicated hospital professional publication), which celebrates “Ireland’s top hospital and healthcare achievers”. The Professional Top 100 lists “hospital professionals across a range of disciplines, both in healthcare and pharma industries, who act as ambassadors and role models for their peers and colleagues” and have “displayed motivating behaviour and inspirational leadership affecting the development of hospital services across Ireland”. See the December 2023 edition at https://hospitalprofessionalnews.ie/digital-magazines.
 - Silicon Republic [https://www.siliconrepublic.com/innovation/philip-cardiff-ucd-erc-pig-human-heart-transplants](https://www.siliconrepublic.com/innovation/philip-cardiff-ucd-erc-pig-human-heart-transplants).
-
 - ScienceX [https://sciencex.com/wire-news/447050371/ucd-researcher-receives-erc-funding-to-unlock-insights-into-pig-.html](https://sciencex.com/wire-news/447050371/ucd-researcher-receives-erc-funding-to-unlock-insights-into-pig-.html)
-
 - Independent.ie, Wexford People newspaper [Wexford Professor embarks on journey of discovery with pioneering pig-to-human heart transplant project](https://www.independent.ie/regionals/wexford/wexford-district/wexford-professor-embarks-on-journey-of-discovery-with-pioneering-pig-to-human-heart-transplant-project/a1357899267.html).
 
 - Newstalk radio station, Moncrieff Show [https://www.newstalk.com/podcasts/highlights-from-moncrieff/could-pig-heart-modification-for-human-transplantation-become-more-common](https://www.newstalk.com/podcasts/highlights-from-moncrieff/could-pig-heart-modification-for-human-transplantation-become-more-common).
@@ -228,4 +233,4 @@
 
 - https://ma-clinique.fr/un-chercheur-de-lucd-recoit-une-subvention-erc-consolidator-pour-debloquer-des-connaissances-informatiques-sur-la-xenotransplantation-cardiaque
 
-- Philip Cardiff, "From Farming Dreams to Medical Frontiers: My Journey to Lead a €2 Million Research Project on Xenotransplantation”, Kilmore Parish Journal, Co Wexford, 52nd edition, December 2023.
+- 
