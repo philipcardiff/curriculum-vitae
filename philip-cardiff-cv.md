@@ -1,3 +1,9 @@
+# Contact Details
+
+- philip.cardiff@ucd.ie
+- +353 1 716 1888
+- Room 211, School of Mechanical and Materials Engineering, Engineering and Materials Science Centre, University College Dublin, Belfield, Dublin 4, Ireland. D04 V1W8.
+
 # Positions
 
 - 12/21-present: **Associate Professor**, School of Mechanical and Materials Engineering, **University College Dublin**.
