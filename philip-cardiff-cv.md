@@ -238,5 +238,3 @@
 - https://medworm.com/1108697918/ucd-researcher-gets-eu-grant-to-study-pig-to-human-heart-transplants/
 
 - https://ma-clinique.fr/un-chercheur-de-lucd-recoit-une-subvention-erc-consolidator-pour-debloquer-des-connaissances-informatiques-sur-la-xenotransplantation-cardiaque
-
-- 
