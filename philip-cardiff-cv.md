@@ -136,10 +136,11 @@
 
 ## PhD Thesis External Examiner
 
-- Swansea University, UK
-- Polytechnic University of Catalonia, Barcelona, Spain
-- Technische Universität Darmstadt, Germany
-- São Paulo State University, Brazil
+- The George Washington University, USA, 2023. Anastasiia Sarmakeeva, A Resolved CFD-DEM Coupling Method for Simulation Two-Phase Fluids Interaction with Arbitrary Shaped Bodies.
+- São Paulo State University, Brazil, 2022. Iago Lessa de Oliveira, On the mechanics of intracranial aneurysms walls: Numerical assessment of the influence of tissue hyperelastic laws and heterogeneity and the major role played by curvature on pathways to rupture.
+- Technische Universität Darmstadt, Germany, 2020. Lucas Ribeiro de Azevedo, Development of a block-coupled finite volume methodology for non-linear elasticity.
+- Swansea University, UK, 2019. Osama Ibrahim Ismail Hassan, A vertex centred Finite Volume algorithm for fast solid dynamics: Total and Updated Lagrangian descriptions.
+- Polytechnic University of Catalonia, Barcelona, Spain, 2019. Ignacio González Acedo, Development of a finite volume method for elastic materials and fluid-solid coupled applications.
 
 ## PhD Thesis Internal Examiner and Chair
 
