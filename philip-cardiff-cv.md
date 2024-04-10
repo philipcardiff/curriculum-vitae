@@ -217,6 +217,11 @@
 - Poster award, UCD postgraduate research day, Simon Rodriguez, 2023.
 
 
+# Public engagement and inclusivity training
+
+- Introduction to Inclusive Communities Online Workshop, Chrissi McCarthy, Constructing Equality, online, 10 April 2024.
+
+
 # Media
 
 - Philip Cardiff, "From Farming Dreams to Medical Frontiers: My Journey to Lead a €2 Million Research Project on Xenotransplantation”, Kilmore Parish Journal, Co Wexford, 52nd edition, December 2023.
