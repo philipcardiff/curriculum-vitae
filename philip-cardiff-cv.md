@@ -111,7 +111,8 @@
 - Netherlands Organisation for Scientific Research 2019, 2024 (unavailable).
 - South East Technological University (SETU) researcher award programme.
 - [Invited but unavailable]: German Research Foundation (Deutsche Forschungsgemeinschaft), 2023.
-- [Invited but unavailable]: South East Technological University (SETU) PhD programme
+- [Invited but unavailable]: South East Technological University (SETU) 2023 Scholarship Pprogramme
+- South East Technological University (SETU) 2024 Scholarship Programme.
 
 ## Journal Reviewer
 
@@ -205,16 +206,16 @@
 - Bekaert University Technology Centre, Phase I, 2015-2020.
 - Multi-scale modelling of pearlitic steel wires, Bekaert, Michael Clancy, 2014-2018.
 - Overcoming Post-Operative Hip Instability: A Numerical Model Approach, Tekno-Surgical and the Irish Research Council Enterprise Partnership Scheme, Karen Fitzgerald, 2014-2018.
-- A Numerical Model of the Ankle Joint Mechanics Towards Design of Next Generation Ankle Implants, Hogan Healthcare and the Irish Research Council Enterprise Partnership Scheme, Laxmi Muralidharan, 2014-2018.
+- A Numerical Model of Ankle Joint Mechanics Towards Design of Next Generation Ankle Implants, Hogan Healthcare and the Irish Research Council Enterprise Partnership Scheme, Laxmi Muralidharan, 2014-2018.
 
 
 # Awards
 
-- Bernhard Crossland presentation award, 2011
-- BOC gas postgraduate presentation award, 2011
-- OFW16 best presentation, Andrew Whelan, 2021
 - Poster award, UCD postgraduate research day, Dylan Armfield, 2023.
 - Poster award, UCD postgraduate research day, Simon Rodriguez, 2023.
+- OFW16 best presentation, Andrew Whelan, 2021
+- BOC gas postgraduate presentation award, 2011
+- Bernhard Crossland presentation award, 2011
 
 
 # Media
