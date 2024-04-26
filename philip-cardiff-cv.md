@@ -8,7 +8,7 @@
 
 - 12/21-present: **Associate Professor**, School of Mechanical and Materials Engineering, **University College Dublin**.
 - 08/15-12/21: **Assistant Professor**, School of Mechanical and Materials Engineering, **University College Dublin**.
-- 01/15-08-15: **Postdoctoral Research Fellow**, **University of Texas at Austin**, Texas, USA. *Petroleum and Geosystems Engineering, Cockrell School of Engineering*. I worked on the development of multiphysics finite volume models for the analysis of hydraulic fracturing and other coupled enhanced oil recovery processes.
+- 01/15-08-15: **Postdoctoral Research Fellow**, **University of Texas at Austin**, Texas, USA. *Petroleum and Geosystems Engineering, Cockrell School of Engineering*. I worked on developing multiphysics finite volume models to analyse hydraulic fracturing and other coupled enhanced oil recovery processes.
 - 11/12-01-15: **Postdoctoral Research Fellow**, **University College Dublin**, School of Mechanical and Materials Engineering. I worked on finite volume/element methods and material characterisation related to metal forming (www.bekaert.com) and composites (Irish Composites Centre).
 
 # Education & Qualifications
@@ -23,11 +23,11 @@
 
 - Editor of the [OpenFOAM Journal](http://journal.openfoam.com)
 - Editor of the [Journal for Open Source Software (JOSS)](http://joss.theoj.org)
-- OpenFOAM Workshop Conference Committee member: member and former chair (2020-2021). The committee are responsible for organising the annual international OpenFOAM Workshop.
-- Funded Investigator in the National Centres: [I-Form](www.i-form.ie), the national advanced manufacturing centre, [UCD Energy Institute](energyinstitute.ucd.ie), and previously the Irish Composites Centre (IComp).
+- OpenFOAM Workshop Conference Committee member: I am a member and former chair (2020-2021). The committee is responsible for organising the annual international OpenFOAM Workshop.
+- I am a funded investigator at the national centres [I-Form](www.i-form.ie), the National Advanced Manufacturing Centre, UCD Energy Institute, and previously, the Irish Composites Centre (IComp).
 - Principal investigator in the UCD Centre for Biomedical Engineering.
 - Super-moderator on the OpenFOAM forum [www.cfd-online.com](www.cfd-online.com): I have made more than 1,000 posts since I joined in 2009.
-- The principal architect of the [solids4foam toolbox](solids4foam.github.io) for OpenFOAM, which is a solid mechanics and fluid-solid interaction toolbox for open-source software OpenFOAM.
+- I am the principal architect of the solids4foam toolbox (www.solids4foam.com) for OpenFOAM, which allows solid mechanics and fluid-solid interaction simulations to be performed natively in the OpenFOAM software.
 
 
 # Institutional Responsibilities
@@ -64,36 +64,36 @@
 
 ## Invited Trainings
 
-- 21/02/24: GÖHPCOFFEE, GWDG, Germany (online). An Introduction to solids4foam: An OpenFOAM Toolbox for Solid Mechanics and Fluid-Solid Interaction, Invited online seminar.
-- 08/02/24: One-day Lectures: PhD Interdoctoral Course at Politecnico di Milano, Computational fluid dynamics with open-source software, Training on "Solid mechanics and fluid-solid interaction in OpenFOAM using solids4foam.
-- 31/01/23: Lecture: An overview of the finite volume method for solid mechanics and fluid-solid interaction, International Research Training Group, Karlsruhe IT, Germany.
-- 17/02/22: One-day Lectures: PhD Interdoctoral Course at Politecnico di Milano, Italy, Computational fluid dynamics with open-source software, Training on "Solid mechanics and fluid-solid interaction in OpenFOAM using solids4foam.
-- Jul-2022: Training: solids4foam training, The 18th OpenFOAM Workshop internal conference, University of Cambridge, UK, July 2022.
-- Jun-2020: Training: solids4foam training, The 3rd University College London, UK, online, February 2021; oTraining: Solid mechanics and fluid-solid interaction using the solids4foam toolbox, 15th OpenFOAM Workshop international conference, Virginia Tech, USA, online, June 2020.
-- Jul-2019: Training: Solid mechanics and fluid-solid interaction using the solids4foam toolbox, 14th  OpenFOAM Workshop international conference, Duisburg, Germany;
-- Jun-2019: OpenFOAM and the finite volume method for solid mechanics, Dutch OpenFOAM Usergroup (DOUG), Delft University of Technology, Netherlands.
-- Mar-2019: Development of the finite volume method for solid mechanics in OpenFOAM, DANSIS OpenFOAM Seminar, Aalborg University, Copenhagen Campus, Denmark.
-- May-2018: The finite volume method for solid mechanics in OpenFOAM, 2nd Iberian OpenFOAM Meeting, CESGA, Santiago de Compostela, Spain.
+- 21 Feb 24: GÖHPCOFFEE, GWDG, Germany (online). An Introduction to solids4foam: An OpenFOAM Toolbox for Solid Mechanics and Fluid-Solid Interaction, Invited online seminar.
+- 08 Feb 24: One-day Lectures: PhD Interdoctoral Course at Politecnico di Milano, Computational fluid dynamics with open-source software, Training on "Solid mechanics and fluid-solid interaction in OpenFOAM using solids4foam.
+- 31 Jan 23: Lecture: An overview of the finite volume method for solid mechanics and fluid-solid interaction, International Research Training Group, Karlsruhe IT, Germany.
+- 17 Feb 22: One-day Lectures: PhD Interdoctoral Course at Politecnico di Milano, Italy, Computational fluid dynamics with open-source software, Training on "Solid mechanics and fluid-solid interaction in OpenFOAM using solids4foam.
+- Jul 2022: Training: solids4foam training, The 18th OpenFOAM Workshop internal conference, University of Cambridge, UK, July 2022.
+- Jun 2020: Training: solids4foam training, The 3rd University College London, UK, online, February 2021; oTraining: Solid mechanics and fluid-solid interaction using the solids4foam toolbox, 15th OpenFOAM Workshop international conference, Virginia Tech, USA, online, June 2020.
+- Jul 2019: Training: Solid mechanics and fluid-solid interaction using the solids4foam toolbox, 14th  OpenFOAM Workshop international conference, Duisburg, Germany;
+- Jun 2019: OpenFOAM and the finite volume method for solid mechanics, Dutch OpenFOAM Usergroup (DOUG), Delft University of Technology, Netherlands.
+- Mar 2019: Development of the finite volume method for solid mechanics in OpenFOAM, DANSIS OpenFOAM Seminar, Aalborg University, Copenhagen Campus, Denmark.
+- May 2018: The finite volume method for solid mechanics in OpenFOAM, 2nd Iberian OpenFOAM Meeting, CESGA, Santiago de Compostela, Spain.
 - Geomechanics in OpenFOAM, Bundesanstalt für Wasserbau (Federal Institute for Hydraulic Engineering), Karlsruhe, Germany.
-- Feb-2017: Solid mechanics in OpenFOAM, Stammtisch United, German national OpenFOAM conference, Universität Kassel, Germany.
-- Jun-2016: Training: Solid mechanics in OpenFOAM, and the ParaView software, 11th OpenFOAM Workshop international conference, Guimarães, Portugal.
-- Jun-2015: Training: Solid mechanics in OpenFOAM, and the ParaView software, 10th OpenFOAM Workshop international conference, University of Michigan, USA.
-- Jun-2014: Training: Solid mechanics in OpenFOAM, and the ParaView software, 9th OpenFOAM Workshop international conference, University of Zagreb, Croatia.
+- Feb 2017: Solid mechanics in OpenFOAM, Stammtisch United, German national OpenFOAM conference, Universität Kassel, Germany.
+- Jun 2016: Training: Solid mechanics in OpenFOAM, and the ParaView software, 11th OpenFOAM Workshop international conference, Guimarães, Portugal.
+- Jun 2015: Training: Solid mechanics in OpenFOAM, and the ParaView software, 10th OpenFOAM Workshop international conference, University of Michigan, USA.
+- Jun 2014: Training: Solid mechanics in OpenFOAM, and the ParaView software, 9th OpenFOAM Workshop international conference, University of Zagreb, Croatia.
 
 
 # Invited Keynotes, Plenaries & Seminars
 
-- 9-10/Jul/2024: Keynote (to be delivered), The Finite Volume Method for Multiphysics: From Manufacturing to Biomechanics, Annual Postgraduate Research Conference in Metallic Materials hosted by the Centre for Doctoral Training in Advanced Metallic Systems, University of Manchester, UK.
-- 23/Dec/23: Invited Seminar: The finite volume method for multiphysics applications, Hamilton Institute Seminar, Maynooth University, Ireland.
-- May-2023: Keynote: Simulating the process-structure property relationship in laser-bed fusion, EMPOrlA-Conference, Aachen, Germany.
-- Feb-2023: Keynote: Using preCICE to couple OpenFOAM and solids4foam for fluid-solid interactions, preCICE Workshop 2023, Technical University of Munich, Germany.
-- Apr-2021: Keynote: Finite volume approaches for finite strain elasto-plasticity, CCP-WSI Code Developers' Workshop 2, online, University of Plymouth, UK.
-- Feb-2021: Keynote: The finite volume method for solid mechanics, The 3rd University College London, UK, online.
-- Jun-2019: Keynote: OpenFOAM and the finite volume method for solid mechanics, Dutch OpenFOAM Usergroup (DOUG), Delft University of Technology, Netherlands.
-- Mar-2019: Keynote: Development of the finite volume method for solid mechanics in OpenFOAM, DANSIS OpenFOAM Seminar, Aalborg University, Copenhagen Campus, Denmark.
-- May-2018: Keynote: The finite volume method for solid mechanics in OpenFOAM, 2nd Iberian OpenFOAM Meeting, CESGA, Santiago de Compostela, Spain.
-- May-2017: Keynote: Geomechanics in OpenFOAM, Bundesanstalt für Wasserbau (Federal Institute for Hydraulic Engineering), Karlsruhe, Germany.
-- Feb-2017: Invited Talk: Solid mechanics in OpenFOAM, Stammtisch United, German national OpenFOAM conference, Universität Kassel, Germany.
+- 9-10 Jul 2024: Keynote (to be delivered), The Finite Volume Method for Multiphysics: From Manufacturing to Biomechanics, Annual Postgraduate Research Conference in Metallic Materials hosted by the Centre for Doctoral Training in Advanced Metallic Systems, University of Manchester, UK.
+- 23 Dec 23: Invited Seminar: The finite volume method for multiphysics applications, Hamilton Institute Seminar, Maynooth University, Ireland.
+- May 2023: Keynote: Simulating the process-structure property relationship in laser-bed fusion, EMPOrlA-Conference, Aachen, Germany.
+- Feb 2023: Keynote: Using preCICE to couple OpenFOAM and solids4foam for fluid-solid interactions, preCICE Workshop 2023, Technical University of Munich, Germany.
+- Apr 2021: Keynote: Finite volume approaches for finite strain elasto-plasticity, CCP-WSI Code Developers' Workshop 2, online, University of Plymouth, UK.
+- Feb 2021: Keynote: The finite volume method for solid mechanics, The 3rd University College London, UK, online.
+- Jun 2019: Keynote: OpenFOAM and the finite volume method for solid mechanics, Dutch OpenFOAM Usergroup (DOUG), Delft University of Technology, Netherlands.
+- Mar 2019: Keynote: Development of the finite volume method for solid mechanics in OpenFOAM, DANSIS OpenFOAM Seminar, Aalborg University, Copenhagen Campus, Denmark.
+- May 2018: Keynote: The finite volume method for solid mechanics in OpenFOAM, 2nd Iberian OpenFOAM Meeting, CESGA, Santiago de Compostela, Spain.
+- May 2017: Keynote: Geomechanics in OpenFOAM, Bundesanstalt für Wasserbau (Federal Institute for Hydraulic Engineering), Karlsruhe, Germany.
+- Feb 2017: Invited Talk: Solid mechanics in OpenFOAM, Stammtisch United, German national OpenFOAM conference, Universität Kassel, Germany.
 
 
 # Organisation of Scientific Meetings
@@ -111,7 +111,7 @@
 - Netherlands Organisation for Scientific Research 2019, 2024 (unavailable).
 - South East Technological University (SETU) researcher award programme.
 - [Invited but unavailable]: German Research Foundation (Deutsche Forschungsgemeinschaft), 2023.
-- [Invited but unavailable]: South East Technological University (SETU) 2023 Scholarship Pprogramme
+- [Invited but unavailable]: South East Technological University (SETU) 2023 Scholarship Programme
 - South East Technological University (SETU) 2024 Scholarship Programme.
 
 ## Journal Reviewer
@@ -186,7 +186,8 @@
 
 # Grants
 
-- REVERSIble adhesiVE bonding to meet the evolving needs of the global wind energy industry, Eurostars Eureka consortium, 2024-2027.
+- UCD seed funding for dissemination to support a PhD researcher in attending an international conference.
+-  REVERSIble adhesiVE bonding to meet the evolving needs of the global wind energy industry, Eurostars Eureka consortium, 2024-2027.
 - Development of bio-based composites with a low carbon footprint for fatigue-resistant wind turbine blades, Irish Research Council, Umair Javiad, 2023-2027.
 - I-Form advanced manufacturing centre, phase II, Co-PI, 2023-2029.
 - XenoSim: Providing Computational Insights into Cardiac Xenotransplantation, European Research Council Consolidator Grant, 2022-2027.
@@ -218,9 +219,10 @@
 - Bernhard Crossland presentation award, 2011
 
 
-# Public engagement and inclusivity training
+# Public engagement and inclusivity
 
 - Introduction to Inclusive Communities Online Workshop, Chrissi McCarthy, Constructing Equality, online, 10 April 2024.
+- Contributed to the NexSys ([https://www.nexsys-energy.ie](https://www.nexsys-energy.ie)) colouring book project, which developed a colouring book for Irish primary school children highlighting key concepts in renewable energy systems.
 
 
 # Media
