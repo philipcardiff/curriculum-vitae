@@ -221,8 +221,10 @@
 
 # Public engagement and inclusivity
 
-- Introduction to Inclusive Communities Online Workshop, Chrissi McCarthy, Constructing Equality, online, 10 April 2024.
 - Contributed to the NexSys ([https://www.nexsys-energy.ie](https://www.nexsys-energy.ie)) colouring book project, which developed a colouring book for Irish primary school children highlighting key concepts in renewable energy systems.
+- Training: Introduction to Inclusive Communities Online Workshop, Chrissi McCarthy, Constructing Equality, online, 10 April 2024.
+- Training: Impact through Engagement, Online Workshop, Jamie Gallagher, 30 May 2023.
+- Training: Public engagement workshop, Jamie Gallagher, 1 March 2021.
 
 
 # Media
