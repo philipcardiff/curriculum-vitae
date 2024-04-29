@@ -214,9 +214,10 @@
 
 - Poster award, UCD postgraduate research day, Dylan Armfield, 2023.
 - Poster award, UCD postgraduate research day, Simon Rodriguez, 2023.
-- OFW16 best presentation, Andrew Whelan, 2021
-- BOC gas postgraduate presentation award, 2011
-- Bernhard Crossland presentation award, 2011
+- Infrastructure Asset Management Prize 2022 from the Institution of Civil Engineers for the paper *Investigation of the helicopter downwash effect on pedestrian comfort using CFD*.
+- 16th OpenFOAM Workshop international conference, best presentation award, Andrew Whelan, 2021.
+- BOC gas postgraduate presentation award, University College Dublin, 2011.
+- Bernhard Crossland presentation award, University College Dublin, 2011.
 
 
 # Public engagement and inclusivity
