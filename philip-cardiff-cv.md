@@ -113,6 +113,7 @@
 - [Invited but unavailable]: German Research Foundation (Deutsche Forschungsgemeinschaft), 2023.
 - [Invited but unavailable]: South East Technological University (SETU) 2023 Scholarship Programme
 - South East Technological University (SETU) 2024 Scholarship Programme.
+- [Invited but unavailable]: Slovakia Research Agency, 2024.
 
 ## Journal Reviewer
 
