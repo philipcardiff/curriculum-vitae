@@ -117,19 +117,23 @@
 
 ## Journal Reviewer
 
-- Int. J. Numer. Methods Eng.
-- Comput. Methods Appl. Mech. Eng.
-- Comput. Struct.
-- Int. J. Numer. Methods Biomed. Eng.
-- Open Biomed. Eng. J.
-- Int. J. Numer. Anal. Methods Geomech.
-- Appl. Math. Modell.
-- Comput. Appl. Math.
-- Ocean Eng.
-- Acta Mech.
-- J. Fluids Struct.
-- J. Comput. Phys.
-- Eur. J. Mech. B/Fluids.
+Sure, here's the list of academic journals with their full names:
+
+- International Journal for Numerical Methods in Engineering
+- Computer Methods in Applied Mechanics and Engineering
+- Computers and Structures
+- International Journal for Numerical Methods in Biomedical Engineering
+- The Open Biomedical Engineering Journal
+- International Journal for Numerical and Analytical Methods in Geomechanics
+- Applied Mathematical Modelling
+- Computational and Applied Mathematics
+- Ocean Engineering
+- Acta Mechanica
+- Journal of Fluids and Structures
+- Journal of Computational Physics
+- European Journal of Mechanics B/Fluids
+- Computers and Fluids
+
 
 ## Programme Reviewer
 
