@@ -225,12 +225,14 @@ Sure, here's the list of academic journals with their full names:
 - Bernhard Crossland presentation award, University College Dublin, 2011.
 
 
-# Public engagement and inclusivity
+# Public engagement, inclusivity and other training
 
-- Contributed to the NexSys ([https://www.nexsys-energy.ie](https://www.nexsys-energy.ie)) colouring book project, which developed a colouring book for Irish primary school children highlighting key concepts in renewable energy systems.
+- Export Control Certificate, University College Dublin online training course, 16 May 2024.
 - Training: Introduction to Inclusive Communities Online Workshop, Chrissi McCarthy, Constructing Equality, online, 10 April 2024.
+- Contributed to the NexSys ([https://www.nexsys-energy.ie](https://www.nexsys-energy.ie)) colouring book project, which developed a colouring book for Irish primary school children highlighting key concepts in renewable energy systems, 2023-2024..
 - Training: Impact through Engagement, Online Workshop, Jamie Gallagher, 30 May 2023.
 - Training: Public engagement workshop, Jamie Gallagher, 1 March 2021.
+- Data Privacy and Security, GDPR Fundamentals Award, University College Dublin online training course, 16 November 2020.
 
 
 # Media
