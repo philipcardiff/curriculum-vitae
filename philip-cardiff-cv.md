@@ -50,7 +50,7 @@
 - [Twitter/X](https://twitter.com/phiiliipc).
 
 
-# Teaching & Invited Trainings
+# Teaching
 
 ## University College Dublin
 - 06/16-05/18: Professional Diploma in University Teaching & Learning (30 ECTS), UCD. My teaching philosophy can be found at https://people.ucd.ie/philip.cardiff/teaching.
@@ -83,6 +83,7 @@
 
 # Invited Keynotes, Plenaries & Seminars
 
+- 7-8 June 2024: Invited talk: Performing solid mechanics and fluid-solid interaction simulations in OpenFOAM using the solids4foam toolbox, Inaugural UK-India OpenFOAM Conference, online. Organised by the University of Birmingham and IIT Kharagpur.
 - 9-10 Jul 2024: Keynote (to be delivered), The Finite Volume Method for Multiphysics: From Manufacturing to Biomechanics, Annual Postgraduate Research Conference in Metallic Materials hosted by the Centre for Doctoral Training in Advanced Metallic Systems, University of Manchester, UK.
 - 23 Dec 23: Invited Seminar: The finite volume method for multiphysics applications, Hamilton Institute Seminar, Maynooth University, Ireland.
 - May 2023: Keynote: Simulating the process-structure property relationship in laser-bed fusion, EMPOrlA-Conference, Aachen, Germany.
@@ -225,8 +226,9 @@ Sure, here's the list of academic journals with their full names:
 - Bernhard Crossland presentation award, University College Dublin, 2011.
 
 
-# Public engagement, inclusivity and other training
+# Public engagement, inclusivity, institutional culture, and other training
 
+- Poster judge for the 2024 University College Dublin STEM Early Career Researchers Symposium, June 2024.
 - Export Control Certificate, University College Dublin online training course, 16 May 2024.
 - Training: Introduction to Inclusive Communities Online Workshop, Chrissi McCarthy, Constructing Equality, online, 10 April 2024.
 - Contributed to the NexSys ([https://www.nexsys-energy.ie](https://www.nexsys-energy.ie)) colouring book project, which developed a colouring book for Irish primary school children highlighting key concepts in renewable energy systems, 2023-2024..
