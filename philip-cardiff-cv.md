@@ -192,7 +192,8 @@ Sure, here's the list of academic journals with their full names:
 
 # Grants
 
-- UCD seed funding for dissemination to support a PhD researcher in attending an international conference.
+- Floating Offshore Wind Dynamic Cables (FlOWDyn), Sustainable Energy Authority of Ireland (SEAI) National Energy Research, Development & Demonstration (RD&D) Programme, 2024-2028. Consortium between UCD (Pakrashi, Nolan, Celikin, Cardiff, Malekjafarian, Rounak, Ivankovic, Keenehan, Teixeira), UCC (Murphy), and Jaksic (MTU). 
+- UCD seed funding for dissemination to support a PhD researcher in attending an international conference, 2023-2024.
 -  REVERSIble adhesiVE bonding to meet the evolving needs of the global wind energy industry, Eurostars Eureka consortium, 2024-2027.
 - Development of bio-based composites with a low carbon footprint for fatigue-resistant wind turbine blades, Irish Research Council, Umair Javiad, 2023-2027.
 - I-Form advanced manufacturing centre, phase II, Co-PI, 2023-2029.
