@@ -83,7 +83,7 @@
 
 # Invited Keynotes, Plenaries & Seminars
 
-- 7-8 June 2024: Invited talk: Performing solid mechanics and fluid-solid interaction simulations in OpenFOAM using the solids4foam toolbox, Inaugural UK-India OpenFOAM Conference, online. Organised by the University of Birmingham and IIT Kharagpur.
+- 7-8 June 2024: Invited talk: Performing solid mechanics and fluid-solid interaction simulations in OpenFOAM using the solids4foam toolbox, Inaugural UK-India OpenFOAM Symposium, online. Organised by the University of Birmingham and IIT Kharagpur.
 - 9-10 Jul 2024: Keynote (to be delivered), The Finite Volume Method for Multiphysics: From Manufacturing to Biomechanics, Annual Postgraduate Research Conference in Metallic Materials hosted by the Centre for Doctoral Training in Advanced Metallic Systems, University of Manchester, UK.
 - 23 Dec 23: Invited Seminar: The finite volume method for multiphysics applications, Hamilton Institute Seminar, Maynooth University, Ireland.
 - May 2023: Keynote: Simulating the process-structure property relationship in laser-bed fusion, EMPOrlA-Conference, Aachen, Germany.
