@@ -158,20 +158,21 @@ Sure, here's the list of academic journals with their full names:
 
 ## Ongoing
 
-- Umair Javaid, 2023-2027
-- Amirhossein Taran, 2022-2026
-- Ali Shayegh, 2021-2025
-- Dylan Armfield, 2021-2025
-- Scott Levie, 2021-2025
-- Federico Mazzanti, 2020-2024
-- Simon Rodriguez, 2020-2024
-- Abdur Rahman Al Azad, 2019-2024
-- Gowthaman Parivendhan, 2018-2024
-- Abhay Pant, 2017-2024
+- Colm McAlister, PhD, 2024-2027
+- Umair Javaid, PhD, 2023-2027
+- Amirhossein Taran, PhD, 2022-2026
+- Ali Shayegh, PhD, 2021-2025
+- Dylan Armfield, PhD, 2021-2025
+- Scott Levie, PhD, 2021-2024
+- Federico Mazzanti, PhD, 2020-2024
+- Simon Rodriguez, PhD, 2020-2024
+- Abdur Rahman Al Azad, PhD, 2019-2024
+- Gowthaman Parivendhan, PhD, 2018-2024
 
 
 ## Previous
 
+- Abhay Pant, PhD, 2017-2024
 - Wenbin Sun, PhD, 2019-2023
 - Seevani Bali, PhD, 2018-2023
 - Abhay Pant, PhD, 2016-2023
@@ -232,7 +233,7 @@ Sure, here's the list of academic journals with their full names:
 - Poster judge for the 2024 University College Dublin STEM Early Career Researchers Symposium, June 2024.
 - Export Control Certificate, University College Dublin online training course, 16 May 2024.
 - Training: Introduction to Inclusive Communities Online Workshop, Chrissi McCarthy, Constructing Equality, online, 10 April 2024.
-- Contributed to the NexSys ([https://www.nexsys-energy.ie](https://www.nexsys-energy.ie)) colouring book project, which developed a colouring book for Irish primary school children highlighting key concepts in renewable energy systems, 2023-2024..
+- Contributed to the NexSys ([https://www.nexsys-energy.ie](https://www.nexsys-energy.ie)) colouring book project, which developed a colouring book for Irish primary school children highlighting key concepts in renewable energy systems, 2023-2024.
 - Training: Impact through Engagement, Online Workshop, Jamie Gallagher, 30 May 2023.
 - Training: Public engagement workshop, Jamie Gallagher, 1 March 2021.
 - Data Privacy and Security, GDPR Fundamentals Award, University College Dublin online training course, 16 November 2020.
