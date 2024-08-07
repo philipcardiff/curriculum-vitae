@@ -99,6 +99,7 @@
 
 # Organisation of Scientific Meetings
 
+- 24/06/25- 25/06/25: Member of the executive organising committee, Bioengineering in Ireland (BINI) conference, Hodson Bay Hotel, Athlone, Ireland.
 - 08/06/21- 11/06/21: Organiser and Host, 16th International OpenFOAM Workshop conference, UCD (online, due to COVID). 271 attendees, 124 presentations: www.ucd.ie/openfoam2021.
 - 16/01/17- 17/01/17: Organiser and Host, 5th UK and Ireland OpenFOAM User Day, SMME, UCD. Over 50 attendees, 50% from the UK: www.ucd.ie/mecheng/newsandevents/5thukirelandfoamopenfoamuserday.
 
