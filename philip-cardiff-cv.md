@@ -56,11 +56,12 @@
 - 06/16-05/18: Professional Diploma in University Teaching & Learning (30 ECTS), UCD. My teaching philosophy can be found at https://people.ucd.ie/philip.cardiff/teaching.
 - 09/21: University College Teaching Award
 - 09/19: University College Teaching nomination
-- 09/15-present: Lecturer/Module Coordinator – Computational Continuum Mechanics II, UCD.
-- 09/15-07/23: Lecturer/Module Coordinator – Manufacturing Engineering I, UCD.
-- 09/15-12/20: Lecturer/Module Coordinator – Advanced Materials Processing, UCD.
-- 09/15-12/20: Lecturer – Computational Continuum Mechanics I, UCD.
-- 09/15-12/17: Lecturer – Materials Science and Engineering II, UCD.
+- 09/15-present: Module Coordinator/Lecturer – Computational Continuum Mechanics II, MEEN40150, UCD.
+- 09/15-07/23: Module Coordinator/Lecturer – Manufacturing Engineering I, MEEN20020, UCD.
+- 05/18-05/23: Module Coordinator - Project (MEngSc Materials), MEEN40890, UCD.
+- 09/15-12/20: Module Coordinator/Lecturer – Advanced Materials Processing, MEEN40070, UCD.
+- 09/15-12/20: Lecturer – Computational Continuum Mechanics I, MEEN40050, UCD.
+- 09/15-12/17: Lecturer – Materials Science and Engineering II, MEEn30090, UCD.
 
 ## Invited Trainings
 
