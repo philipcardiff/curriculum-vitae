@@ -54,8 +54,9 @@
 
 ## University College Dublin
 - 06/16-05/18: Professional Diploma in University Teaching & Learning (30 ECTS), UCD. My teaching philosophy can be found at https://people.ucd.ie/philip.cardiff/teaching.
-- 09/21: University College Teaching Award
-- 09/19: University College Teaching nomination
+- 09/24: Nomination for Teaching and Learning Award in the College of Engineering and Architecture, UCD.
+- 09/21: University College Teaching Award, UCD.
+- 09/19: Nomination for Teaching and Learning Award in the College of Engineering and Architecture, UCD.
 - 09/15-present: Module Coordinator/Lecturer – Computational Continuum Mechanics II, MEEN40150, UCD.
 - 09/15-07/23: Module Coordinator/Lecturer – Manufacturing Engineering I, MEEN20020, UCD.
 - 05/18-05/23: Module Coordinator - Project (MEngSc Materials), MEEN40890, UCD.
