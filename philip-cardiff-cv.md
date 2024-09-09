@@ -128,6 +128,7 @@
 - J. Fluids Struct.
 - J. Comput. Phys.
 - Eur. J. Mech. B/Fluids.
+- Compos. B Eng.
 
 ## Programme Reviewer
 
