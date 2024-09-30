@@ -6,7 +6,8 @@
 
 # Positions
 
-- 12/21-present: **Associate Professor**, School of Mechanical and Materials Engineering, **University College Dublin**.
+- 09/24-present: **Professor in Computational Mechanics**, School of Mechanical and Materials Engineering, **University College Dublin**.
+- 12/21-09/24: **Associate Professor**, School of Mechanical and Materials Engineering, **University College Dublin**.
 - 08/15-12/21: **Assistant Professor**, School of Mechanical and Materials Engineering, **University College Dublin**.
 - 01/15-08-15: **Postdoctoral Research Fellow**, **University of Texas at Austin**, Texas, USA. *Petroleum and Geosystems Engineering, Cockrell School of Engineering*. I worked on developing multiphysics finite volume models to analyse hydraulic fracturing and other coupled enhanced oil recovery processes.
 - 11/12-01-15: **Postdoctoral Research Fellow**, **University College Dublin**, School of Mechanical and Materials Engineering. I worked on finite volume/element methods and material characterisation related to metal forming (www.bekaert.com) and composites (Irish Composites Centre).
