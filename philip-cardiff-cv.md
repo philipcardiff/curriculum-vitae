@@ -139,6 +139,7 @@ Sure, here's the list of academic journals with their full names:
 - European Journal of Mechanics B/Fluids
 - Computers and Fluids
 - Composites Part B: Engineering
+- The Journal of Open Source Software
 
 
 ## Programme Reviewer
