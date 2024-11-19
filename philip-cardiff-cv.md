@@ -113,7 +113,7 @@
 ## Proposal Reviewer
 
 - ICHEC Class A/B applications to use resources on the Irish Centre for High-End Computing Kay supercomputer.
-- Marie Skłodowska-Curie Postdoctoral Fellowships 2020/2021/2023.
+- Marie Skłodowska-Curie Postdoctoral Fellowships 2020/2021/2023/2024.
 - Netherlands Organisation for Scientific Research 2019, 2024 (unavailable).
 - South East Technological University (SETU) researcher award programme.
 - [Invited but unavailable]: German Research Foundation (Deutsche Forschungsgemeinschaft), 2023.
@@ -122,8 +122,6 @@
 - [Invited but unavailable]: Slovakia Research Agency, 2024.
 
 ## Journal Reviewer
-
-Sure, here's the list of academic journals with their full names:
 
 - International Journal for Numerical Methods in Engineering
 - Computer Methods in Applied Mechanics and Engineering
@@ -158,12 +156,12 @@ Sure, here's the list of academic journals with their full names:
 
 ## PhD Thesis Internal Examiner and Chair
 
-- Chair and internal examiner >10 times at UCD.
+- Chair and internal examiner >15 times at UCD.
 
 
 # Research Supervision
 
-## Ongoing
+## Ongoing PhDs
 
 - Colm McAlister, PhD, 2024-2027
 - Petar Cosic, PhD, 2024-2027
@@ -176,8 +174,11 @@ Sure, here's the list of academic journals with their full names:
 - Simon Rodriguez, PhD, 2020-2025
 - Gowthaman Parivendhan, PhD, 2018-2025
 
+## Ongoing Postdocs
 
-## Previous
+- Seevani Bali, 2024-2026
+
+## Graduated PhDs
 
 - Abdur Rahman Al Azad, PhD, 2019-2024
 - Abhay Pant, PhD, 2017-2024
@@ -190,6 +191,9 @@ Sure, here's the list of academic journals with their full names:
 - Laxmi Muralidharan, PhD, 2015-2019
 - Michael Clancy, PhD, 2015-2020
 - Chen Ling, PhD, 2015-2019
+
+## Previous Postdocs & Research Engineers
+
 - Umair Javaid, Research Engineer, 2017-2020
 - Ivan Batistić, Postdoc 2022-2023
 - Emad Tandis, Postdoc, 2020-2023
