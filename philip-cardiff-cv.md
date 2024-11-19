@@ -102,6 +102,7 @@
 # Organisation of Scientific Meetings
 
 - 24/06/25- 25/06/25: Member of the executive organising committee, Bioengineering in Ireland (BINI) conference, Hodson Bay Hotel, Athlone, Ireland.
+- 09/26 - Present: Member of the OceanFoam organising committee.
 - 08/06/21- 11/06/21: Organiser and Host, 16th International OpenFOAM Workshop conference, UCD (online, due to COVID). 271 attendees, 124 presentations: www.ucd.ie/openfoam2021.
 - 16/01/17- 17/01/17: Organiser and Host, 5th UK and Ireland OpenFOAM User Day, SMME, UCD. Over 50 attendees, 50% from the UK: www.ucd.ie/mecheng/newsandevents/5thukirelandfoamopenfoamuserday.
 
@@ -162,19 +163,20 @@ Sure, here's the list of academic journals with their full names:
 ## Ongoing
 
 - Colm McAlister, PhD, 2024-2027
+- Petar Cosic, PhD, 2024-2027
 - Umair Javaid, PhD, 2023-2027
 - Amirhossein Taran, PhD, 2022-2026
 - Ali Shayegh, PhD, 2021-2025
 - Dylan Armfield, PhD, 2021-2025
-- Scott Levie, PhD, 2021-2024
-- Federico Mazzanti, PhD, 2020-2024
-- Simon Rodriguez, PhD, 2020-2024
-- Abdur Rahman Al Azad, PhD, 2019-2024
-- Gowthaman Parivendhan, PhD, 2018-2024
+- Scott Levie, PhD, 2021-2025
+- Federico Mazzanti, PhD, 2020-2025
+- Simon Rodriguez, PhD, 2020-2025
+- Gowthaman Parivendhan, PhD, 2018-2025
 
 
 ## Previous
 
+- Abdur Rahman Al Azad, PhD, 2019-2024
 - Abhay Pant, PhD, 2017-2024
 - Wenbin Sun, PhD, 2019-2023
 - Seevani Bali, PhD, 2018-2023
