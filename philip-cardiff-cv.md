@@ -204,11 +204,19 @@
 - Pierre Aumjaud, Postdoc, 2017-2021
 
 
+# Hosting Visting Researchers
+
+- Assoc. Prof. Sara Gonizzi Barsanti, University Vanvitelli, Italy, June-July 2025, Erasmus+ scheme.
+- Mr. Iago Lessa de Oliveira, São Paulo State University, Brazil, 2022.
+- Mr. Hector Diaz, Universidad Politécnica de Madrid, 2017.
+- Mr. Lilian Chabannes, Brno University of Technology, 2019.
+
+
 # Grants
 
 - Floating Offshore Wind Dynamic Cables (FlOWDyn), Sustainable Energy Authority of Ireland (SEAI) National Energy Research, Development & Demonstration (RD&D) Programme, 2024-2028. Consortium between UCD (Pakrashi, Nolan, Celikin, Cardiff, Malekjafarian, Rounak, Ivankovic, Keenehan, Teixeira), UCC (Murphy), and Jaksic (MTU). 
 - UCD seed funding for dissemination to support a PhD researcher in attending an international conference, 2023-2024.
--  REVERSIble adhesiVE bonding to meet the evolving needs of the global wind energy industry, Eurostars Eureka consortium, 2024-2027.
+- REVERSIble adhesiVE bonding to meet the evolving needs of the global wind energy industry, Eurostars Eureka consortium, 2024-2027.
 - Development of bio-based composites with a low carbon footprint for fatigue-resistant wind turbine blades, Irish Research Council, Umair Javiad, 2023-2027.
 - I-Form advanced manufacturing centre, phase II, Co-PI, 2023-2029.
 - XenoSim: Providing Computational Insights into Cardiac Xenotransplantation, European Research Council Consolidator Grant, 2022-2027.
