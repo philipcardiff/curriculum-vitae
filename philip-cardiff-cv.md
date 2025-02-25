@@ -251,6 +251,7 @@
 
 # Public engagement, inclusivity, institutional culture, and other training
 
+- Bullying, Harassment & Sexual Misconduct disclosure training for People Managers, delivered by Andrea Adams Consultancy, online day course, 25 February 2025.
 - Poster judge for the 2024 University College Dublin STEM Early Career Researchers Symposium, June 2024.
 - Export Control Certificate, University College Dublin online training course, 16 May 2024.
 - Training: Introduction to Inclusive Communities Online Workshop, Chrissi McCarthy, Constructing Equality, online, 10 April 2024.
