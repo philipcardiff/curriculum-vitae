@@ -164,23 +164,29 @@
 
 ## Ongoing PhDs
 
+- Simão Castro, PhD, 2025-2028
+- Aaron Mullen-Hales, PhD, 2025-2028
 - Colm McAlister, PhD, 2024-2027
 - Petar Cosic, PhD, 2024-2027
 - Umair Javaid, PhD, 2023-2027
 - Amirhossein Taran, PhD, 2022-2026
 - Ali Shayegh, PhD, 2021-2025
 - Dylan Armfield, PhD, 2021-2025
-- Scott Levie, PhD, 2021-2025
-- Federico Mazzanti, PhD, 2020-2025
-- Simon Rodriguez, PhD, 2020-2025
-- Gowthaman Parivendhan, PhD, 2018-2025
 
 ## Ongoing Postdocs
 
+- Ivan Batistić, 2025-2027
+- Pablo Castrillo, 2025-2027
+- Chanikya Valeti, 2025-2027
+- Simon Rodriguez, 2025-2026
 - Seevani Bali, 2024-2026
 
 ## Graduated PhDs
 
+- Scott Levie, PhD, 2021-2025
+- Federico Mazzanti, PhD, 2020-2025
+- Simon Rodriguez, PhD, 2020-2025
+- Gowthaman Parivendhan, PhD, 2018-2025
 - Abdur Rahman Al Azad, PhD, 2019-2024
 - Abhay Pant, PhD, 2017-2024
 - Wenbin Sun, PhD, 2019-2023
