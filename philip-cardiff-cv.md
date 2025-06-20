@@ -175,11 +175,11 @@
 
 ## Ongoing Postdocs
 
-- Ivan Batistić, 2025-2027
-- Pablo Castrillo, 2025-2027
-- Chanikya Valeti, 2025-2027
-- Simon Rodriguez, 2025-2026
-- Seevani Bali, 2024-2026
+- Ivan Batistić, 2025-present
+- Pablo Castrillo, 2025-present
+- Chanikya Valeti, 2025-present
+- Simon Rodriguez, 2025-present
+- Seevani Bali, 2024-present
 
 ## Graduated PhDs
 
@@ -212,7 +212,8 @@
 
 # Hosting Visting Researchers
 
-- Assoc. Prof. Sara Gonizzi Barsanti, University Vanvitelli, Italy, June-July 2025, Erasmus+ scheme.
+- Mr. Lucas Marcel Aparecido Costa Pilati, São Paulo State University, Brazil, 2025.
+- Mr. Tomas Valldeperas Moliné, Free University of Bolzano, 2024 and 2025.
 - Mr. Iago Lessa de Oliveira, São Paulo State University, Brazil, 2022.
 - Mr. Hector Diaz, Universidad Politécnica de Madrid, 2017.
 - Mr. Lilian Chabannes, Brno University of Technology, 2019.
