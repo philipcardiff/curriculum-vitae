@@ -165,23 +165,29 @@
 
 ## Ongoing PhDs
 
+- Simão Castro, PhD, 2025-2028
+- Aaron Mullen-Hales, PhD, 2025-2028
 - Colm McAlister, PhD, 2024-2027
 - Petar Cosic, PhD, 2024-2027
 - Umair Javaid, PhD, 2023-2027
 - Amirhossein Taran, PhD, 2022-2026
 - Ali Shayegh, PhD, 2021-2025
 - Dylan Armfield, PhD, 2021-2025
+
+## Ongoing Postdocs
+
+- Ivan Batistić, 2025-present
+- Pablo Castrillo, 2025-present
+- Chanikya Valeti, 2025-present
+- Simon Rodriguez, 2025-present
+- Seevani Bali, 2024-present
+
+## Graduated PhDs
+
 - Scott Levie, PhD, 2021-2025
 - Federico Mazzanti, PhD, 2020-2025
 - Simon Rodriguez, PhD, 2020-2025
 - Gowthaman Parivendhan, PhD, 2018-2025
-
-## Ongoing Postdocs
-
-- Seevani Bali, 2024-2026
-
-## Graduated PhDs
-
 - Abdur Rahman Al Azad, PhD, 2019-2024
 - Abhay Pant, PhD, 2017-2024
 - Wenbin Sun, PhD, 2019-2023
@@ -207,7 +213,8 @@
 
 # Hosting Visting Researchers
 
-- Assoc. Prof. Sara Gonizzi Barsanti, University Vanvitelli, Italy, June-July 2025, Erasmus+ scheme.
+- Mr. Lucas Marcel Aparecido Costa Pilati, São Paulo State University, Brazil, 2025.
+- Mr. Tomas Valldeperas Moliné, Free University of Bolzano, 2024 and 2025.
 - Mr. Iago Lessa de Oliveira, São Paulo State University, Brazil, 2022.
 - Mr. Hector Diaz, Universidad Politécnica de Madrid, 2017.
 - Mr. Lilian Chabannes, Brno University of Technology, 2019.
@@ -252,6 +259,7 @@
 
 # Public engagement, inclusivity, institutional culture, and other training
 
+- Bullying, Harassment & Sexual Misconduct disclosure training for People Managers, delivered by Andrea Adams Consultancy, online day course, 25 February 2025.
 - Poster judge for the 2024 University College Dublin STEM Early Career Researchers Symposium, June 2024.
 - Export Control Certificate, University College Dublin online training course, 16 May 2024.
 - Training: Introduction to Inclusive Communities Online Workshop, Chrissi McCarthy, Constructing Equality, online, 10 April 2024.
