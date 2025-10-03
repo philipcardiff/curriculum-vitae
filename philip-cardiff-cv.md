@@ -86,6 +86,7 @@
 
 # Invited Keynotes, Plenaries & Seminars
 
+- 2 October 2025: Invited talk: Introducing solid mechanics solvers in OpenFOAM, UKACM & GACM AUTUMN SCHOOL 2025, Open-Source Codes for High-Performance Computing, online.
 - 7-8 June 2024: Invited talk: Performing solid mechanics and fluid-solid interaction simulations in OpenFOAM using the solids4foam toolbox, Inaugural UK-India OpenFOAM Symposium, online. Organised by the University of Birmingham and IIT Kharagpur.
 - 9-10 Jul 2024: Keynote (to be delivered), The Finite Volume Method for Multiphysics: From Manufacturing to Biomechanics, Annual Postgraduate Research Conference in Metallic Materials hosted by the Centre for Doctoral Training in Advanced Metallic Systems, University of Manchester, UK.
 - 23 Dec 23: Invited Seminar: The finite volume method for multiphysics applications, Hamilton Institute Seminar, Maynooth University, Ireland.
