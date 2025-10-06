@@ -33,7 +33,8 @@
 
 # Institutional Responsibilities
 
-- 09/18-present: Director of Bekaert’s 1st [University Technology Centre](www.ucd.ie/bekaert)
+- 11/25: School representative on the QS rankings work group.
+- 09/18-present: Director of Bekaert’s 1st [University Technology Centre](www.ucd.ie/bekaert).
 - 09/21-present: Deputy Director (Responsible for Computation) in the UCD Centre for Mechanics. Director of the MEngSc in Materials Science and Engineering, School of Mechanical and Materials Engineering, UCD.
 - 09/23-present: Member of the College IT Committee, UCD.
 - 09/15-present: Member of the Programme Steering Board for the ME in Materials Science and Engineering, School of Mechanical and Materials Engineering, UCD.
