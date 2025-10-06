@@ -86,6 +86,7 @@
 
 # Invited Keynotes, Plenaries & Seminars
 
+- 2 October 2025: Invited talk: Introducing solid mechanics solvers in OpenFOAM, UKACM & GACM AUTUMN SCHOOL 2025, Open-Source Codes for High-Performance Computing, online.
 - 7-8 June 2024: Invited talk: Performing solid mechanics and fluid-solid interaction simulations in OpenFOAM using the solids4foam toolbox, Inaugural UK-India OpenFOAM Symposium, online. Organised by the University of Birmingham and IIT Kharagpur.
 - 9-10 Jul 2024: Keynote (to be delivered), The Finite Volume Method for Multiphysics: From Manufacturing to Biomechanics, Annual Postgraduate Research Conference in Metallic Materials hosted by the Centre for Doctoral Training in Advanced Metallic Systems, University of Manchester, UK.
 - 23 Dec 23: Invited Seminar: The finite volume method for multiphysics applications, Hamilton Institute Seminar, Maynooth University, Ireland.
@@ -103,6 +104,7 @@
 # Organisation of Scientific Meetings
 
 - 24/06/25- 25/06/25: Member of the executive organising committee, Bioengineering in Ireland (BINI) conference, Hodson Bay Hotel, Athlone, Ireland.
+- 09/26 - Present: Member of the OceanFoam organising committee.
 - 08/06/21- 11/06/21: Organiser and Host, 16th International OpenFOAM Workshop conference, UCD (online, due to COVID). 271 attendees, 124 presentations: www.ucd.ie/openfoam2021.
 - 16/01/17- 17/01/17: Organiser and Host, 5th UK and Ireland OpenFOAM User Day, SMME, UCD. Over 50 attendees, 50% from the UK: www.ucd.ie/mecheng/newsandevents/5thukirelandfoamopenfoamuserday.
 
@@ -112,7 +114,8 @@
 ## Proposal Reviewer
 
 - ICHEC Class A/B applications to use resources on the Irish Centre for High-End Computing Kay supercomputer.
-- Marie Skłodowska-Curie Postdoctoral Fellowships 2020/2021/2023.
+- Vice Chair for Marie Skłodowska-Curie Postdoctoral Fellowships 2025.
+- Reviewer for Marie Skłodowska-Curie Postdoctoral Fellowships 2020/2021/2023/2024.
 - Netherlands Organisation for Scientific Research 2019, 2024 (unavailable).
 - South East Technological University (SETU) researcher award programme.
 - [Invited but unavailable]: German Research Foundation (Deutsche Forschungsgemeinschaft), 2023.
@@ -121,8 +124,6 @@
 - [Invited but unavailable]: Slovakia Research Agency, 2024.
 
 ## Journal Reviewer
-
-Sure, here's the list of academic journals with their full names:
 
 - International Journal for Numerical Methods in Engineering
 - Computer Methods in Applied Mechanics and Engineering
@@ -140,6 +141,7 @@ Sure, here's the list of academic journals with their full names:
 - Computers and Fluids
 - Composites Part B: Engineering
 - The Journal of Open Source Software
+- Nature
 
 
 ## Programme Reviewer
@@ -149,6 +151,7 @@ Sure, here's the list of academic journals with their full names:
 
 ## PhD Thesis External Examiner
 
+- Universitat Politecnica de Catalunya, Spain, 2024. Luan Malikoski Vieira, Low-order face-based approaches for incompressible computational fluid dynamics.
 - The George Washington University, USA, 2023. Anastasiia Sarmakeeva, A Resolved CFD-DEM Coupling Method for Simulation Two-Phase Fluids Interaction with Arbitrary Shaped Bodies.
 - São Paulo State University, Brazil, 2022. Iago Lessa de Oliveira, On the mechanics of intracranial aneurysms walls: Numerical assessment of the influence of tissue hyperelastic laws and heterogeneity and the major role played by curvature on pathways to rupture.
 - Technische Universität Darmstadt, Germany, 2020. Lucas Ribeiro de Azevedo, Development of a block-coupled finite volume methodology for non-linear elasticity.
@@ -157,27 +160,37 @@ Sure, here's the list of academic journals with their full names:
 
 ## PhD Thesis Internal Examiner and Chair
 
-- Chair and internal examiner >10 times at UCD.
+- Chair and internal examiner >15 times at UCD.
 
 
 # Research Supervision
 
-## Ongoing
+## Ongoing PhDs
 
+- Simão Castro, PhD, 2025-2028
+- Aaron Mullen-Hales, PhD, 2025-2028
 - Colm McAlister, PhD, 2024-2027
+- Petar Cosic, PhD, 2024-2027
 - Umair Javaid, PhD, 2023-2027
 - Amirhossein Taran, PhD, 2022-2026
 - Ali Shayegh, PhD, 2021-2025
 - Dylan Armfield, PhD, 2021-2025
-- Scott Levie, PhD, 2021-2024
-- Federico Mazzanti, PhD, 2020-2024
-- Simon Rodriguez, PhD, 2020-2024
+
+## Ongoing Postdocs
+
+- Ivan Batistić, 2025-present
+- Pablo Castrillo, 2025-present
+- Chanikya Valeti, 2025-present
+- Simon Rodriguez, 2025-present
+- Seevani Bali, 2024-present
+
+## Graduated PhDs
+
+- Scott Levie, PhD, 2021-2025
+- Federico Mazzanti, PhD, 2020-2025
+- Simon Rodriguez, PhD, 2020-2025
+- Gowthaman Parivendhan, PhD, 2018-2025
 - Abdur Rahman Al Azad, PhD, 2019-2024
-- Gowthaman Parivendhan, PhD, 2018-2024
-
-
-## Previous
-
 - Abhay Pant, PhD, 2017-2024
 - Wenbin Sun, PhD, 2019-2023
 - Seevani Bali, PhD, 2018-2023
@@ -188,6 +201,9 @@ Sure, here's the list of academic journals with their full names:
 - Laxmi Muralidharan, PhD, 2015-2019
 - Michael Clancy, PhD, 2015-2020
 - Chen Ling, PhD, 2015-2019
+
+## Previous Postdocs & Research Engineers
+
 - Umair Javaid, Research Engineer, 2017-2020
 - Ivan Batistić, Postdoc 2022-2023
 - Emad Tandis, Postdoc, 2020-2023
@@ -197,11 +213,20 @@ Sure, here's the list of academic journals with their full names:
 - Pierre Aumjaud, Postdoc, 2017-2021
 
 
+# Hosting Visting Researchers
+
+- Mr. Lucas Marcel Aparecido Costa Pilati, São Paulo State University, Brazil, 2025.
+- Mr. Tomas Valldeperas Moliné, Free University of Bolzano, 2024 and 2025.
+- Mr. Iago Lessa de Oliveira, São Paulo State University, Brazil, 2022.
+- Mr. Hector Diaz, Universidad Politécnica de Madrid, 2017.
+- Mr. Lilian Chabannes, Brno University of Technology, 2019.
+
+
 # Grants
 
 - Floating Offshore Wind Dynamic Cables (FlOWDyn), Sustainable Energy Authority of Ireland (SEAI) National Energy Research, Development & Demonstration (RD&D) Programme, 2024-2028. Consortium between UCD (Pakrashi, Nolan, Celikin, Cardiff, Malekjafarian, Rounak, Ivankovic, Keenehan, Teixeira), UCC (Murphy), and Jaksic (MTU). 
 - UCD seed funding for dissemination to support a PhD researcher in attending an international conference, 2023-2024.
--  REVERSIble adhesiVE bonding to meet the evolving needs of the global wind energy industry, Eurostars Eureka consortium, 2024-2027.
+- REVERSIble adhesiVE bonding to meet the evolving needs of the global wind energy industry, Eurostars Eureka consortium, 2024-2027.
 - Development of bio-based composites with a low carbon footprint for fatigue-resistant wind turbine blades, Irish Research Council, Umair Javiad, 2023-2027.
 - I-Form advanced manufacturing centre, phase II, Co-PI, 2023-2029.
 - XenoSim: Providing Computational Insights into Cardiac Xenotransplantation, European Research Council Consolidator Grant, 2022-2027.
@@ -237,6 +262,7 @@ Sure, here's the list of academic journals with their full names:
 # Public engagement, inclusivity, institutional culture, and other training
 
 - Judge for the I-Form ‘Manufacturing a Healthy Future’ schools competition, May 2025.
+- Bullying, Harassment & Sexual Misconduct disclosure training for People Managers, delivered by Andrea Adams Consultancy, online day course, 25 February 2025.
 - Poster judge for the 2024 University College Dublin STEM Early Career Researchers Symposium, June 2024.
 - Export Control Certificate, University College Dublin online training course, 16 May 2024.
 - Training: Introduction to Inclusive Communities Online Workshop, Chrissi McCarthy, Constructing Equality, online, 10 April 2024.
