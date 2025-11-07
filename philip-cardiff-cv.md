@@ -175,7 +175,6 @@
 - Umair Javaid, PhD, 2023-2027
 - Amirhossein Taran, PhD, 2022-2026
 - Ali Shayegh, PhD, 2021-2025
-- Dylan Armfield, PhD, 2021-2025
 
 ## Ongoing Postdocs
 
@@ -187,6 +186,7 @@
 
 ## Graduated PhDs
 
+- Dylan Armfield, PhD, 2021-2025
 - Scott Levie, PhD, 2021-2025
 - Federico Mazzanti, PhD, 2020-2025
 - Simon Rodriguez, PhD, 2020-2025
