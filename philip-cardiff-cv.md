@@ -168,6 +168,7 @@
 
 ## Ongoing PhDs
 
+- David Kelly, PhD, 2025-2028
 - Simão Castro, PhD, 2025-2028
 - Aaron Mullen-Hales, PhD, 2025-2028
 - Colm McAlister, PhD, 2024-2027
