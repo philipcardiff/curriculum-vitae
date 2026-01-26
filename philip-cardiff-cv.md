@@ -29,6 +29,8 @@
 - Principal investigator in the UCD Centre for Biomedical Engineering.
 - Super-moderator on the OpenFOAM forum [www.cfd-online.com](www.cfd-online.com): I have made more than 1,000 posts since I joined in 2009.
 - I am the principal architect of the solids4foam toolbox (www.solids4foam.com) for OpenFOAM, which allows solid mechanics and fluid-solid interaction simulations to be performed natively in the OpenFOAM software.
+- Member of the UCD Microsoft Migration Steering Group, and chair of the College Liaison Group for Engineering and Architecture, 2025-2027.
+- Member of the Royal Academy of Medicine Ireland Bronze Medal juding panel (abstracts) for the Bioengineering in Ireland conference 2026, Hodson Bay Hotel, Athlone, January 2026.
 
 
 # Institutional Responsibilities
@@ -126,6 +128,7 @@
 
 ## Journal Reviewer
 
+- Nature
 - International Journal for Numerical Methods in Engineering
 - Computer Methods in Applied Mechanics and Engineering
 - Computers and Structures
