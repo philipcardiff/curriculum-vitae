@@ -116,6 +116,7 @@
 
 ## Proposal Reviewer
 
+- UK Research and Innovation (UKRI), EPSRC standard research grant, 2026.
 - ICHEC Class A/B applications to use resources on the Irish Centre for High-End Computing Kay supercomputer.
 - Vice Chair for Marie Skłodowska-Curie Postdoctoral Fellowships 2025.
 - Reviewer for Marie Skłodowska-Curie Postdoctoral Fellowships 2020/2021/2023/2024.
