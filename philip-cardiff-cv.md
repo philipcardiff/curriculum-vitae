@@ -165,8 +165,8 @@
 
 ## PhD Thesis Internal Examiner and Chair
 
-- Chair and internal examiner >15 times at UCD.
-
+- Served as PhD thesis chair and/or internal examiner **26 times** at UCD since 2019.
+  Breakdown by year: 2026 ×4, 2025 ×2, 2024 ×6, 2023 ×3, 2022 ×1, 2021 ×5, 2020 ×3, 2019 ×2.
 
 # Research Supervision
 
@@ -179,7 +179,7 @@
 - Petar Cosic, PhD, 2024-2027
 - Umair Javaid, PhD, 2023-2027
 - Amirhossein Taran, PhD, 2022-2026
-- Ali Shayegh, PhD, 2021-2025
+- Ali Shayegh, PhD, 2021-2026
 
 ## Ongoing Postdocs
 
@@ -219,13 +219,13 @@
 - Pierre Aumjaud, Postdoc, 2017-2021
 
 
-# Hosting Visting Researchers
+# Hosting Visiting Researchers
 
 - Mr. Lucas Marcel Aparecido Costa Pilati, São Paulo State University, Brazil, 2025.
 - Mr. Tomas Valldeperas Moliné, Free University of Bolzano, 2024 and 2025.
 - Mr. Iago Lessa de Oliveira, São Paulo State University, Brazil, 2022.
-- Mr. Hector Diaz, Universidad Politécnica de Madrid, 2017.
-- Mr. Lilian Chabannes, Brno University of Technology, 2019.
+- Mr Héctor Díaz, Universidad Politécnica de Madrid, 2017.
+- Mr Lilian Chabannes, Brno University of Technology, 2019.
 
 
 # Grants
