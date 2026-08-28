@@ -33,6 +33,8 @@
 - Member of the Royal Academy of Medicine Ireland Bronze Medal juding panel (abstracts) for the Bioengineering in Ireland conference 2026, Hodson Bay Hotel, Athlone, January 2026.
 - Representative of the School of Mechanical and Materials Engineering on the College of Engineering and Architecture Prioritisation Panel for the INSPIRE research infrastructure programme call 2026.
 - Member of UCD's Risk Management Advisory Committee, nominee of the College Principal of the College of Engineering and Architecture, May 2026-present.
+- Head of research, School of Mechanical and Materials Engineering, August 2026 to present.
+
 
 # Institutional Responsibilities
 
