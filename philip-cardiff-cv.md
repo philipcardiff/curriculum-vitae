@@ -159,6 +159,7 @@
 
 ## PhD Thesis External Examiner
 
+- South East Technical University, Ireland, 2026. Dylan S. Edirisinghe, Rain-Induced Erosion Modelling of Wind Turbine Blade Coating and Mitigation Strategy Assessment.
 - Universitat Politecnica de Catalunya, Spain, 2024. Luan Malikoski Vieira, Low-order face-based approaches for incompressible computational fluid dynamics.
 - The George Washington University, USA, 2023. Anastasiia Sarmakeeva, A Resolved CFD-DEM Coupling Method for Simulation Two-Phase Fluids Interaction with Arbitrary Shaped Bodies.
 - São Paulo State University, Brazil, 2022. Iago Lessa de Oliveira, On the mechanics of intracranial aneurysms walls: Numerical assessment of the influence of tissue hyperelastic laws and heterogeneity and the major role played by curvature on pathways to rupture.
