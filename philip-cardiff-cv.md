@@ -32,19 +32,20 @@
 - Member of the UCD Microsoft Migration Steering Group, and chair of the College Liaison Group for Engineering and Architecture, 2025-2027.
 - Member of the Royal Academy of Medicine Ireland Bronze Medal juding panel (abstracts) for the Bioengineering in Ireland conference 2026, Hodson Bay Hotel, Athlone, January 2026.
 - Representative of the School of Mechanical and Materials Engineering on the College of Engineering and Architecture Prioritisation Panel for the INSPIRE research infrastructure programme call 2026.
-- Member of UCD's Risk Management Advisory Committee, nominee of the College Principal of the College of Engineering and Architecture, May 2026-present.
-- Head of research, School of Mechanical and Materials Engineering, August 2026 to present.
 
 
 # Institutional Responsibilities
 
-- 11/25: School representative on the QS rankings work group.
+- 11/25: School representative on the College of Engineering and Architecture QS rankings work group.
 - 09/18-present: Director of Bekaert’s 1st [University Technology Centre](www.ucd.ie/bekaert).
 - 09/21-present: Deputy Director (Responsible for Computation) in the UCD Centre for Mechanics. Director of the MEngSc in Materials Science and Engineering, School of Mechanical and Materials Engineering, UCD.
-- 09/23-present: Member of the College IT Committee, UCD.
+- 09/23-present: Member of the College of Engineering and Architecture IT Committee, UCD.
 - 09/15-present: Member of the Programme Steering Board for the ME in Materials Science and Engineering, School of Mechanical and Materials Engineering, UCD.
+- 05/25-present: Member of UCD's Risk Management Advisory Committee, nominee of the College Principal of the College of Engineering and Architecture.
+- 08/25-present: Head of research, School of Mechanical and Materials Engineering.
+- 08/25-present: Member of the College of Engineering and Architecture Research Integrity (RI) Champions Committee, UCD.
 - 09/15-present: Member of the School Research Committee, School of Mechanical and Materials Engineering, UCD.
-- 09/15-08/20: Member of the College Timetable Committee, UCD.
+- 09/15-08/20: Member of the College of Engineering and Architecture Timetable Committee, UCD.
 
 
 # Publications & Online Profiles
