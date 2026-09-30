@@ -122,8 +122,8 @@
 
 - UK Research and Innovation (UKRI), EPSRC standard research grant, 2026.
 - ICHEC Class A/B applications to use resources on the Irish Centre for High-End Computing Kay supercomputer.
-- Vice Chair for Marie Skłodowska-Curie Postdoctoral Fellowships 2025.
-- Reviewer for Marie Skłodowska-Curie Postdoctoral Fellowships 2020/2021/2023/2024.
+- Vice Chair for Marie Skłodowska-Curie Postdoctoral Fellowships 2025, 2026.
+- Reviewer for Marie Skłodowska-Curie Postdoctoral Fellowships 2020, 2021, 2023, 2024.
 - Netherlands Organisation for Scientific Research 2019, 2024 (unavailable).
 - South East Technological University (SETU) researcher award programme.
 - [Invited but unavailable]: German Research Foundation (Deutsche Forschungsgemeinschaft), 2023.
