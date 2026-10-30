@@ -120,6 +120,7 @@
 
 ## Proposal Reviewer
 
+- Swiss National Science Foundation (SNSF), 2026.
 - UK Research and Innovation (UKRI), EPSRC standard research grant, 2026.
 - ICHEC Class A/B applications to use resources on the Irish Centre for High-End Computing Kay supercomputer.
 - Vice Chair for Marie Skłodowska-Curie Postdoctoral Fellowships 2025, 2026.
